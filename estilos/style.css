@@ -38,6 +38,7 @@ iframe#tela {
 }
 section#sociais {
     text-align: right;
+    position:sticky;
 }
 section#sociais img {
     width: 50px;
